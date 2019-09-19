@@ -1,0 +1,5 @@
+add [nome_arquivo] 
+commit -m [texto] 
+log --graph
+branch -b
+ checkout [arquivo]
