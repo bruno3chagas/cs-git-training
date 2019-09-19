@@ -5,5 +5,3 @@ branch -b
  checkout [arquivo]
 
 clone [repo]
-
-new thing
